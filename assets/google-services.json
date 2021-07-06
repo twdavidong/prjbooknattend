@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "596106092840",
+    "project_id": "booking-and-attendance-app",
+    "storage_bucket": "booking-and-attendance-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596106092840:android:ec0489af3db28bdbd2f01d",
+        "android_client_info": {
+          "package_name": "com.repairaman.bookgnattendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596106092840-d6npn9t336tce187d4k8kq4p2cbvn633.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Jz0ytVTVYaYv5W0il_P1F8t_jnxymUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596106092840-d6npn9t336tce187d4k8kq4p2cbvn633.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "596106092840-4mv1vmn6bk9ksgeir4ma7iiei5k8b0ad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.repairaman.bookgnattendanceapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
